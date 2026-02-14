@@ -2,6 +2,7 @@
 
 Ninja is a small build system with a focus on speed.
 https://ninja-build.org/
+https://unity-billal-mesloub.github.io/ninja/
 
 See [the manual](https://ninja-build.org/manual.html) or
 `doc/manual.asciidoc` included in the distribution for background
