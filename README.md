@@ -9,7 +9,7 @@ See [the manual](https://ninja-build.org/manual.html) or
 and more details.
 
 Binaries for Linux, Mac and Windows are available on
-  [GitHub](https://github.com/ninja-build/ninja/releases).
+  [GitHub](https://github.com/Unity-Billal-mesloub/ninja/releases).
 Run `./ninja -h` for Ninja help.
 
 Installation is not necessary because the only required file is the
@@ -24,7 +24,7 @@ If you're interested in making changes to Ninja, read
 
 You can either build Ninja via the custom generator script written in Python or
 via CMake. For more details see
-[the wiki](https://github.com/ninja-build/ninja/wiki).
+[the wiki](https://github.com/Unity-Billal-mesloub/ninja/wiki).
 
 ### Python
 
